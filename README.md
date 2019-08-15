@@ -6,6 +6,10 @@
 
 Minimal [Spring Boot SSO API](http://projects.spring.io/spring-boot/) sample app.
 
+This Java Spring boot SSO shows, how we can develop and REST API application with Auth0 SSO.
+
+To Know more about how to setup a web application with Single Sign On visit [Here](https://github.com/10DECODERS/Docs/blob/master/SSOIntegration/README.md) 
+
 ## Requirements
 
 For building and running the application you need:
